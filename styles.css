@@ -201,6 +201,7 @@ h1, h2, h3 { line-height: 1.2; margin: 0; }
 .earned .badge { color: #052e16; background: var(--ok); }
 .progress .badge { color: #3b2a00; background: var(--warn); }
 .progress { border-style: dashed; }
+.project-body .badge { align-self: flex-start; margin-bottom: .6rem; }
 .edu { margin-top: 1.6rem; }
 
 /* Contact / footer */
